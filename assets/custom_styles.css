@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFFFFF
+}
+
+a.modebar-btn {
+    font-size: 20px !important;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item-left {
+  padding-left: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  flex: 50%;
+}
+
+.flex-item-right {
+  padding: 10px;
+  flex: 5%;
+  text-align: center;
+}
+
+.select-operation {
+  padding-left: 50px;
+  padding-top: 30px
+}
+
+.flex-item-topright {
+  padding: 10px;
+  flex: 5%;
+  text-align: center;
+}
+
+.tab-div {
+  width: 540px;
+  padding-top: 50px;
+}
